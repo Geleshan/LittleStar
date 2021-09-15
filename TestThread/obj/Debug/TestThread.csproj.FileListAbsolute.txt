@@ -1,0 +1,11 @@
+C:\TestThread\TestThread\bin\Debug\TestThread.exe.config
+C:\TestThread\TestThread\bin\Debug\TestThread.exe
+C:\TestThread\TestThread\bin\Debug\TestThread.pdb
+C:\TestThread\TestThread\obj\Debug\TestThread.csprojResolveAssemblyReference.cache
+C:\TestThread\TestThread\obj\Debug\TestThread.Form1.resources
+C:\TestThread\TestThread\obj\Debug\TestThread.Form2.resources
+C:\TestThread\TestThread\obj\Debug\TestThread.Properties.Resources.resources
+C:\TestThread\TestThread\obj\Debug\TestThread.csproj.GenerateResource.Cache
+C:\TestThread\TestThread\obj\Debug\TestThread.exe
+C:\TestThread\TestThread\obj\Debug\TestThread.pdb
+C:\TestThread\TestThread\obj\Debug\TestThread.SplashFormGP.resources
