@@ -8,7 +8,7 @@ using System.Windows.Forms;
 
 namespace TestThread
 {
-    //显示启动画面
+    //显示启动画面 测试改动
     public class Splasher
     {
         static Form2 MySplashForm = null;
